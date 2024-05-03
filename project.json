@@ -1,0 +1,34 @@
+{
+  "title": "bella",
+  "date": "3/5/24",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "bella.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 8,
+  "totalSize": 723422,
+  "files": [
+    "belib.png",
+    "bella.jclic",
+    "bella.jclic.js",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "libr-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "rosal-resized.jpg"
+  ]
+}
